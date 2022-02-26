@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LabWork</string>
+    <string name="write_record">Введите запись</string>
+    <string name="add_record">Add</string>
+</resources>
